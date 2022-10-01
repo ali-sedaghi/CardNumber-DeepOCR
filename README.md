@@ -21,14 +21,14 @@ Mellat Bank            |  Melli Bank
 :-------------------------:|:-------------------------:
 ![Mellat-Bank](Assets/Mellat_Bank.jpg)  |  ![Melli-Bank](Assets/Melli_Bank.jpg)
 
-Synthesized credit cards images path: Datasets/train_train_synthesized.zip inside Credit folder
+[Synthesized credit cards images](Datasets/train_synthesized/Credit/)
 
 ### Iranian National card
 Old ones            |  New ones
 :-------------------------:|:-------------------------:
 ![National-Old](Assets/National_Old.jpg)  |  ![National-New](Assets/National_New.jpg)
 
-Synthesized national cards images path: Datasets/train_train_synthesized.zip inside National folder
+[Synthesized national cards images](Datasets/train_synthesized/National/)
 
 
 ## Model
