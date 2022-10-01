@@ -5,6 +5,15 @@ Iranian Credit card and National card Deep Optical Character Recognition (OCR) u
 Dataset is synthesized using OpenCV.
 
 
+## Table of Contents
+
+1. [Dataset](#dataset)
+2. [Model](#model)
+3. [How to run](#how-to-run)
+4. [Results](#results)
+5. [App Demo](#app-demo)
+
+
 ## Dataset
 
 ### Iranian Credit Card (Different Banks)
@@ -66,4 +75,4 @@ Credit cards            |  National cards
 
 ## App Demo
 
-![](Assets/App_Demo.mp4)
+https://user-images.githubusercontent.com/45814362/193408829-fdc9a889-09e6-4c61-a59e-a878efd00c2d.mp4
