@@ -30,11 +30,10 @@ Synthesized national cards images path: Datasets/train_train_synthesized.zip ins
 4. Wrapping the pipeline [[Notebook]](Notebooks/E2E_Wrapper.ipynb)
 
 ### Classifier
-![Classifier-Model](Assets/Classifier_Model.png)
+<img src="Assets/Classifier_Model.png" alt="Classifier-Model" width="200"/>
 
 ### OCR
-![OCR-Model](Assets/OCR_Model.png)
-
+<img src="Assets/OCR_Model.png" alt="OCR-Model" width="200"/>
 
 
 ## How to run
@@ -67,4 +66,4 @@ Credit cards            |  National cards
 
 ## App Demo
 
-![App-Demo](Assets/App_Demo.mp4)
+![](Assets/App_Demo.mp4)
