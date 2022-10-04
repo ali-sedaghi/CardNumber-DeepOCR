@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
+.idea
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
